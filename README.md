@@ -4,4 +4,4 @@ CSAPP笔记
 
 Protocol Buffer
 
-- [编码](https://github.com/liufengdev/notes/wiki/PB-Encoding)
+- [编码](https://github.com/liufengdev/notes/blob/master/PB-Encoding.md)
